@@ -4,7 +4,8 @@
 
 <動作イメージ>
 
-![nw-contain](https://github.com/user-attachments/assets/6a8b3968-1828-4a63-8923-cc8bf0d50dea)
+![nw-contain-show-pdf](https://github.com/user-attachments/assets/481d6609-2d68-4c8e-afc1-3628ef6b5985)
+
 
 
 <Fusionワークフローの例>
